@@ -18,7 +18,7 @@ BanLife100ST est le premier AntiCheat 100% Gratuit !
 
 # :jigsaw:  Téléchargement
 
-*[BanLife100ST V1.0.0](https://github.com/Shape581/Poubelle581/releases/tag/V1.0.0)*
+*[BanLife100ST V1.0.0](https://github.com/cole100st/BanLife100ST/releases/tag/Nova-Life)*
 
 # :green_book:  Dépendance
 
