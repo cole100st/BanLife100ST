@@ -1,10 +1,14 @@
 # :zap: BanLife100ST V1.0.0
 
-BanLife100ST est un Plugin permettant de bannir les cheateur mal intentionné.
+BanLife100ST est le premier AntiCheat 100% Gratuit ! 
 
 # :wrench: Fonctionnalité
 
-- Permet de Bannir les cheateur, il est en constante amélioration !
+- Voici les fonctionalité de BanLife
+- Impossible d'avoir plus de 100 points de vie.
+- Anti Admin
+- Vanish
+- Fly au desus d'une certaine hauteu
 
 # :electric_plug:  Installation
 
